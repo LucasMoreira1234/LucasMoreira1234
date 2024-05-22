@@ -2,7 +2,7 @@
 
 Meu nome é Lucas Moreira
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,3 +11,5 @@ Meu nome é Lucas Moreira
 lucasoouza65@gmail.com
 
 @lucasmoreira7159
+
+![](https://media1.tenor.com/m/QAHvGF6RMRIAAAAC/anakin-approves.gif)
